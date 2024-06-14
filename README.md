@@ -1,2 +1,2 @@
 # abi-resolusi
-Repository abi kedepannya
+Repository menyimpan file-file abi kedepannya
